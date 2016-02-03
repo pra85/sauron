@@ -8,7 +8,7 @@ WishList
 * A templating engine
 * A Form engine
 * A Caching engine
-* A sesison enging
+* A session engine
 * A middleware engine
 * An Admin
 * Auto Start CLI tool like nodemon
@@ -25,7 +25,7 @@ Modules forming Basic building blocks
 * ORM : Still not sure if we can use bookshelf or it would be better to start with Mysql and go to postgres
 * URL Base : Can be provided by express
 * Templating Engine : Would prefer something like Jinja2 ==> probably swig or handlebars/ moustache
-* Admin -> Probably Express-Admin or woud have to build from scratch
+* Admin -> Probably Express-Admin or would have to build from scratch
 
 
 Important Links
